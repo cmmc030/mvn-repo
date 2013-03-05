@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>sync-files-keys-plugin Maven Plugin</name>
+      <prefix>sync-files-keys-plugin</prefix>
+      <artifactId>sync-files-keys-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
